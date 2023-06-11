@@ -1,0 +1,2 @@
+# stm32_esp8266_sensor
+硬件STM32F103RCT6/ESP8266，上传传感器数据到云服务器，由APP订阅数据
